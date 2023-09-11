@@ -225,7 +225,7 @@ class _LoginPageState extends State<LoginPage> {
                         //Gender
                         decoration: InputDecoration(
                           prefixIcon: const Icon(
-                            Icons.female
+                            Icons.female,
                             color: Colors.white,
                           ),
                           focusedBorder: OutlineInputBorder(
